@@ -1,7 +1,7 @@
 {
     "name": "fw-installed-software",
     "version": "1.0.0",
-    "command_name": "installed-software",
+    "command_name": "fw-installed-software",
     "extension_author": "FarrimWildaxe",
     "original_author": "",
     "repo_url": "https://github.com/farrimwildaxe/Armory",
@@ -19,7 +19,5 @@
             "arch": "386",
             "path": "fw-is.x86.o"
         }
-    ],
-    "arguments": [
     ]
 }
